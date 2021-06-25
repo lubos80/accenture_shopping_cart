@@ -1,13 +1,14 @@
-import React, { PureComponent } from 'react'
+import React, { PureComponent } from 'react';
 
-export class index extends PureComponent {
+
+export class Login extends PureComponent {
     render() {
         return (
-            <div>
+            <div>Login Page
                 
             </div>
         )
     }
 }
 
-export default index
+export default Login

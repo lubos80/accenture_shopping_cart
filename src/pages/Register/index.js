@@ -1,13 +1,12 @@
 import React, { PureComponent } from 'react'
 
-export class Home extends PureComponent {
+export class Register extends PureComponent {
     render() {
         return (
-            <div>Home Page
-                
+            <div>Register Page           
             </div>
         )
     }
 }
 
-export default Home
+export default Register;
